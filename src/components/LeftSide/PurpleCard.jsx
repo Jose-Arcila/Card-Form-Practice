@@ -11,7 +11,7 @@ export const PurpleCard = () => {
     <div className="purple-card card">
 
       <div className="purple-card-first">
-        <img src="../../src/assets/images/card-logo.svg" alt="help" />
+        <img src="../../assets/images/card-logo.svg" alt="help" />
       </div>
 
       <div className="purple-card-second">
